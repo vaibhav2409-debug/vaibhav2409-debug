@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/Ayush-Baliyan-19/Ayush-Baliyan-19/main/Github_Banner.png)](https://www.linkedin.com/in/ayush-baliyan/)
+[![Banner][def]]
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -8,7 +8,7 @@
 <p align="center">"The strong don't win. The winners are the strong"</p>
 
 ```js
-const name = 'Ayush';
+const name = 'Vaibhav Saini';
 
 Developer dev = new Developer(name);
 
@@ -20,7 +20,7 @@ while(dev.isCoding())
 }
 ```
 <br>
-<h6 align="center" color="white" width="40%">Second-year CSE student, future SDE. My passion for writing codes and diving deep into the computer world brought me to the University School of Information, Communication and Technology, where I am currently getting the most experience of being a web developer and a graphic designer. Last semester I completed the MERN Stack Development, which let me get exposure to being a full stack developer. Currently exploring the opensource community and unity game development</h6>
+<h6 align="center" color="white" width="40%">Second-year CSE student, future SDE. My passion for writing codes and diving deep into the computer world brought me to the G.B. Pant DSEU Okhla-1 Campus, where I am currently getting the most experience of being a web developer and a graphic designer. Last semester I completed the MERN Stack Development, which let me get exposure to being a full stack developer. Currently exploring the opensource community and unity game development</h6>
 <!-- <hr>
 <h3>My Stats On GitHub!</h3>
 <p align="center">
@@ -136,11 +136,7 @@ while(dev.isCoding())
   <img src="https://github.com/your-username/your-repository-name/raw/master/contributions.gif" alt="Code Eating My Contributions" />
 </p>
 <hr>
-  <h1 align="center">
-    Snake Eating Away My Contributions
-    <img src="/webp/Shock.webp" width="40px">
-  </h1>
-
+ 
   ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <hr>
@@ -155,13 +151,14 @@ while(dev.isCoding())
 <hr>
 <h3>Contact Me!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-baliyan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ayush-Baliyan-19">
+  
+  <a href="https://github.com/Vaibhav2409-debug">
     <img src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/ayush__baliyan">
+  <a href="https://www.instagram.com/i_vaibhavsaini">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+
+[def]: https://raw.githubusercontent.com/Vaibhav2409-debug//main/Github_Banner.png
